@@ -13,7 +13,7 @@ export default function Mid() {
         game.</div>
 
         {/* <img src="/dds.png" alt="ee" className='logoimg'/> */}
-        <img src="https://raw.githubusercontent.com/amukh1/dds/master/src/dds.svg" alt="ee" className='logoimg' color='white'/>
+        <img src="https://raw.githubusercontent.com/amukh1/dds/master/src/assets/dds.svg" alt="ee" className='logoimg' color='white'/>
     </main>
   )
 }

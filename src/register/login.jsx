@@ -16,6 +16,6 @@ export default function Login() {
 }
 
 function login() {
-window.location.href = `https://discord.com/api/oauth2/authorize?client_id=965088615204016138&redirect_uri=https%3A%2F%2Fdead-dev.amukh1.repl.co%2Foauth&response_type=code&scope=identify%20email%20guilds%20connections`
+window.location.href = `https://discord.com/api/oauth2/authorize?client_id=965088615204016138&redirect_uri=https%3A%2F%2Fdds.amukh1.repl.co%2Foauth&response_type=code&scope=identify%20email%20connections%20guilds`
 // window.location.reload();
 }

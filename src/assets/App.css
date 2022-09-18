@@ -197,3 +197,26 @@ a,
 svg {
     filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
 }
+
+.addU {
+  transition: all 0.5s ease;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-family: 'Oswald', sans-serif;
+  /* margin-bottom: 10px; */
+    /* background-color: #575757; */
+  margin: 10px;
+}
+
+.h {
+  background-color: #575757;
+  color: white;
+}
+
+.h:hover {
+  background-color: #ffffff;
+  color: rgb(77, 77, 77);
+  cursor: pointer;
+}
