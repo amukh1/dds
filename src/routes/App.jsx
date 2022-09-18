@@ -1,13 +1,13 @@
-import './App.css'
+import '../assets/App.css'
 import { useSpring, animated, config } from "react-spring";
 import react, { useState, useRef } from "react";
-import Mid from "./middle.jsx";
-import Name from "./name.jsx";
+import Mid from "../home/middle.jsx";
+import Name from "../home/name.jsx";
 
 export default function App() {
   return (
     <main>
-        <Name />
+        {/* <Name /> */}
         <div className="padderone"></div>
         <Mid />
     </main>
