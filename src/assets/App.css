@@ -220,3 +220,8 @@ svg {
   color: rgb(77, 77, 77);
   cursor: pointer;
 }
+
+.register {
+  margin-left: 5px;
+  margin-right: 5px;
+}
